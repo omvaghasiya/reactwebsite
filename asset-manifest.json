@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.b2c9c05a.css",
+    "main.js": "/reactwebsite/static/js/main.0153344f.js",
+    "static/media/699287.jpg": "/reactwebsite/static/media/699287.5916aa16c0c6fc5dcfa8.jpg",
+    "static/media/973967.jpg": "/reactwebsite/static/media/973967.e3564612d827462b2b14.jpg",
+    "static/media/Anime Original 1920 x 1080.jpg": "/reactwebsite/static/media/Anime Original 1920 x 1080.73edf6f35119dfdeb7dd.jpg",
+    "static/media/616945.png": "/reactwebsite/static/media/616945.0b556f5fc29efc7cba99.png",
+    "static/media/757078.jpg": "/reactwebsite/static/media/757078.be86fe2f8a8fb9eec9fd.jpg",
+    "static/media/Kimi no Na wa. 3728 x 2098.jpg": "/reactwebsite/static/media/Kimi no Na wa. 3728 x 2098.ca405fa9eeaf2bf3b350.jpg",
+    "static/media/21599.jpg": "/reactwebsite/static/media/21599.d31333462965814e3767.jpg",
+    "static/media/wallpaperflare.com_wallpaper (8).jpg": "/reactwebsite/static/media/wallpaperflare.com_wallpaper (8).722adcbebf1123f9b2a2.jpg",
+    "index.html": "/reactwebsite/index.html",
+    "main.b2c9c05a.css.map": "/reactwebsite/static/css/main.b2c9c05a.css.map",
+    "main.0153344f.js.map": "/reactwebsite/static/js/main.0153344f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c9c05a.css",
+    "static/js/main.0153344f.js"
+  ]
+}
